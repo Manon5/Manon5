@@ -112,3 +112,24 @@ img{
 aside a:hover{
 color:#E8E0D0;
 }
+
+footer{
+  padding: 5px;
+  width: 100%;
+  color: #D1CAA1;
+  background-color: #183A2E;
+}
+
+footer li a{
+  display: inline-block;
+  color: #D1CAA1;;
+  text-decoration: none;
+  float: left;
+  font-weight: bold;
+}
+
+footer li{
+  list-style: none;
+  width: 200px;
+  float: left;
+}
