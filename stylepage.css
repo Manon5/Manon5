@@ -152,10 +152,10 @@ footer li{
 video{
   height: 300px;
   margin: auto;
+  text-align:center;
 }
 
 .frise-chrono{
-  width: 1000px;
+  width: 95%;;
   margin:auto;
-  overflow-x: auto;
 }
