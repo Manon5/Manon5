@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8"/>
+<title> El Niño </title>
+<link rel="stylesheet" media="screen and (min-width:721px)" href="stylepage.css" />
+            <link rel="stylesheet" media="screen and (max-width:720px)" href="mobilepage.css" />
+            <meta name="viewport"  content="width=max-device-width, initial-scale=1" />
+</head>
+<body>
+  <header>
+    <h1> La protection de l’environnement</h1>
+    <nav>
+      <ul>
+        <li> <a href=”lien1”>  Le changement Climatique </a> </li>
+        <li> <a href=”lien2”>  La Pollution </a> </li>
+        <li> <a href=”lien3”>  Les énergies renouvelables </a> </li>
+        <li> <a href=”lien4”>  Le développement durable et les nouvelles technologies </a> </li>
+        <li> <a href=”lien5”> L’alimentation durable </a> </li>
+        <li> <a href=”lien6”> Les gestes simples </a> </li>
+        <li> <a href=”lien7” target=”_blank”> Lexique </a> </li>
+      </ul>
+    </nav>
+  </header>
+
+  <section>
+
+    <figure>
+      <img src="images/el-nino-1.jpg">
+      <img src="images/el-nino-2.jpg">
+    </figure>
+    <h1>Les catastrophes naturelles : l’exemple d’El Niño</h1>
+
+    <article>
+
+      <p>A l’origine, El Niño était le nom d’un courant marin chaud au large de l’Amérique du Sud, qui signait
+      chaque année la fin de la saison de pêche. Mais aujourd’hui, en raison du changement climatique,
+      ce phénomène a pris de l’ampleur : il se traduit par des températures anormalement chaudes sur tout
+       l’ouest du pacifique. El Niño a lieu tous les 2 à 7 ans environ, et chaque épisode dure entre 6 et
+       18 mois : le phénomène est de plus en plus fréquent depuis 20 ans. El Niño atteint son intensité maximale
+       à Noël, d’où son nom : en Espagnol, “El Niño” désigne l’enfant Jésus.</p>
+
+       <h1>La situation classique</h1>
+
+       <figure>
+         <img src="images/el-nino-situation-normale.jpg">
+         <figcaption></figcaption>
+       </figure>
+
+       <p>En temps normal, les vents soufflent d’est en ouest, et poussent les eaux chaudes de surface vers l’ouest.
+      Cela provoque une remontée d’eau froide, venue des profondeurs, à l’est. A l’ouest, l’eau chaude se
+       condense, et forme des nuages, de fortes précipitations et des tempêtes tropicales. Là où l’eau est
+       plus froide, en revanche, le climat devient plus sec.</p>
+
+
+
+      <h1>Lors d’un épisode El Niño</h1>
+
+      <figure>
+        <img src="images/el-nino-situation-anormale.jpg">
+        <figcaption></figcaption>
+      </figure>
+
+      <p>Lorsque les températures sont anormales, les vents s’inversent, et l’eau chaude se retrouve
+         à l’est, aux côtés de l’Amérique du Sud. Cela a de nombreuses conséquences :
+         <ul>
+           <li>De l’eau froide remonte à l’Est, ce qui provoque une forte sécheresse en Australie et en Indonésie.</li>
+           <li>A l’inverse, la Polynésie se retrouve au milieu d’un grand courant d’eau chaude, et doit subir de
+             nombreuses tempêtes et ouragans qui ravagent le pays.</li>
+           <li>Le Pérou subit des pluies diluviennes, qui provoquent des inondations et des glissements de terrain.</li>
+           <li>En raison du changement de température, les poissons désertent la côte Sud-Américaine et rend
+             la pêche impossible, ce qui a un impact sur l’économie locale.</li>
+         </ul>
+       </p>
+
+
+    <p>Ce phénomène a une très grande portée : on ressent ses effets du sud des Etats-Unis jusqu’en Inde :
+      seule l’Europe est épargnée par El Niño.</p>
+
+
+
+  </section>
+
+
+    <footer>
+        <p> créateur : <ul>
+                <li> Touba Manon </li>
+                <li> Ledeux Flavien </li>
+                <li> Nils Roger </li>
+                <li> Karmann Aurélien </li>
+                <li> Alan Zehr </li>
+                </ul> <br> Groupe 1 </p>
+    </footer>
+</body>
+</html>
