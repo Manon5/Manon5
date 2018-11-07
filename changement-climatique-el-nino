@@ -24,6 +24,27 @@
   </header>
 
   <section>
+  
+    <aside>
+      <ul>
+        <li><a href="changement-climatique-definition.html" > Définition </a></li>
+        <li><a href="changement-climatique-histoire.html" > Un peu d'histoire </a></li>
+        <li><a href="changement-climatique-causes.html" > Causes du changement climatique </a></li>
+        <li><a href="changement-climatique-consequences.html" > Conséquences
+          <ul>
+            <li><a href=changement-climatique-fonte-des-glaces.html> La fonte des glaces </a></li>
+            <li><a href=changement-climatique-barriere-de-corail.html> La grande barrière de corail </a></li>
+            <li><a href=changement-climatique-especes-menacees.html> Les espèces menacées  </a></li>
+            <li><a href=changement-climatique-el-nino.html> El Niño </a></li>
+            <li><a href=changement-climatique-montee-des-eaux.html> La montée des eaux, réfugiés climatiques </a></li>
+            <li><a href=changement-climatique-impact-economique.html> L'impact économique </a></li>
+          </ul>
+         </a></li>
+        <li><a href="changement-climatique-climatosceptiques.html" > Les climatosceptiques </a></li>
+        <li><a href="changement-climatique-gestes-simples.html" > Quelques moyens d'agir </a></li>
+        <li><a href="changement-climatique-sources.html" > Les sources </a></li>
+      </ul>
+    </aside>
 
     <figure>
       <img src="images/el-nino-1.jpg">
