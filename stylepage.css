@@ -147,3 +147,8 @@ footer li{
   width: 200px;
   float: left;
 }
+
+video{
+  height: 300px;
+  margin: auto;
+}
