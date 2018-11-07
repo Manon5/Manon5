@@ -73,6 +73,7 @@ article{
 aside {
      position: fixed;
     left: -150px;
+    top: 100px;
     transition: 0.4s;
     padding: 15px;
     width: 300px;
