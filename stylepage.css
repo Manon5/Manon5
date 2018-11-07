@@ -56,8 +56,13 @@ section{
 padding-top: 150px;
 width: 70%;
 margin: auto;
-background-color: #EFE4CA;
+background-color: #D1CAA1;
+padding: 10px;  
 }
+
+
+
+
 aside {
      position: fixed;
     left: -150px;
