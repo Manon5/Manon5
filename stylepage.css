@@ -95,8 +95,11 @@ font-size: 18px;
 .image-moyenne{
   height: 300px;
 }
-
 .image-grande{
+  height: 600px;
+}
+
+.image-tres-grande{
   height: 1000px;
 }
 
