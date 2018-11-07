@@ -152,3 +152,9 @@ video{
   height: 300px;
   margin: auto;
 }
+
+.frise-chrono{
+  width: 1000px;
+  margin:auto;
+  overflow-x: auto;
+}
