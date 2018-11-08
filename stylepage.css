@@ -68,7 +68,6 @@ aside {
     font-size: 20px;
     background-color: #339650;
     border-radius: 0 10px 10px 0;
-  font-weight: normal;
 }
 aside li{
 color:#D1CAA1;
@@ -78,6 +77,7 @@ list-style-type: none;
 aside a{
 color:#D1CAA1;
 text-decoration: none;
+  font-weight: normal;
 }
 aside a:hover{
 color:#E8E0D0;
