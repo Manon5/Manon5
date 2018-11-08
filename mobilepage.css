@@ -1,0 +1,171 @@
+body{
+padding  : 0;
+font-family: Arial;
+margin : 0;
+background-color: #D4D6B9
+}
+
+p{
+text-align:justify;
+}
+
+header {
+background-color:#24633C;
+color: #D1CAA1;
+position: fixed;
+top : 0;
+width: 100%;
+left: 0;
+}
+
+header h1{
+text-align: center;
+}
+
+nav{
+margin:auto;
+}
+
+nav li {
+list-style-type: none;
+
+}
+
+nav li a{
+color: #D1CAA1;
+text-decoration: none;
+display: inline-block;
+background-color: #339650;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 10px;
+padding-right: 10px;
+float: left;
+height: 20px;
+margin: 1px;
+}
+
+nav li a:hover{
+  background-color: #D1CAA1;
+  color: #24633C;
+}
+
+
+section{
+padding: 20px;
+width: 80%;
+margin: auto; 
+background-color: #EFE4CA;
+padding-bottom: 100px;
+padding-top: 100px;
+}
+aside {
+     position: fixed;
+    left: -250px;
+    transition: 0.4s;
+    padding: 15px;
+    width: 300px;
+    font-size: 20px;
+    background-color: #339650;
+    border-radius: 0 10px 10px 0;
+}
+aside li{
+color:#D1CAA1;
+list-style-type: none;
+
+}
+aside a{
+color:#D1CAA1;
+text-decoration: none;
+  font-weight: normal;
+}
+aside a:hover{
+color:#E8E0D0;
+}
+aside:hover {
+    left:0;
+}
+h1 { 
+text-align: center;
+font-size: 25px;
+}
+h2 {
+text-align: center;
+font-size: 18px;
+}
+.image-petite{
+  height: 150px;
+}
+
+.image-moyenne{
+  height: 300px;
+}
+
+.image-grande{
+  height: 600px;
+}
+
+.image-tres-grande{
+  height: 1000px;
+}
+
+figure{
+  margin: auto;
+  text-align: center;
+}
+footer{
+  padding: 10px;
+  width: 100%;
+  color: #D1CAA1;
+  background-color: #183A2E;
+  position: relative;
+  bottom: 0;
+  
+}
+
+footer li a{
+  display: inline-block;
+  color: #D1CAA1;;
+  text-decoration: none;
+  float: left;
+  font-weight: bold;
+}
+
+footer li{
+  list-style: none;
+  width: 200px;
+  float: left;
+}
+
+video{
+  width: 70%;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+
+.frise-chrono{
+  margin:auto;
+}
+
+a{
+ color: #339650;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.definition{
+  width: 100%;
+  max-height: 250px;
+  overflow-y: auto;
+  color : #D1CAA1;
+  background-color: #339650;
+  border-top: 6px solid #24633C;
+  padding: 7px;
+  font-style: italic;
+}
+
+.definition h1{
+  font-size: 16px;
+}
