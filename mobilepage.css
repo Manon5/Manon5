@@ -48,7 +48,7 @@ margin: 1px;
 
 
 section{
-width: 80%;
+width: 100%;
 margin: auto;
 margin-top: 265px; 
 background-color: #EFE4CA;
@@ -61,6 +61,7 @@ article{
   border-top: 1px dashed #AA9764;
   border-bottom: 1px dashed #AA9764;
   background-color: #decfac;
+  margin: 5px;
 }
 
 
