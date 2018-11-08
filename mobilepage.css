@@ -67,26 +67,15 @@ h2 {
 text-align: center;
 font-size: 18px;
 }
-.image-petite{
-  height: 150px;
-}
-
-.image-moyenne{
-  height: 300px;
-}
-
-.image-grande{
-  height: 600px;
-}
-
-.image-tres-grande{
-  height: 1000px;
-}
 
 figure{
   margin: auto;
   text-align: center;
 }
+img {
+  width: 100%;
+}
+
 footer{
   padding: 10px;
   width: 100%;
