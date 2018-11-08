@@ -132,3 +132,22 @@ footer li{
   width: 200px;
   float: left;
 }
+
+video{
+  width: 70%;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+
+.frise-chrono{
+  margin:auto;
+}
+
+a{
+ color: #339650;
+  font-weight: bold;
+  text-decoration: none;
+}
+
