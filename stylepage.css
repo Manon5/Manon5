@@ -197,3 +197,7 @@ a{
   padding: 3px;
   text-align: center;
 }
+
+.bouton-nav-suiv a, .bouton-nav-prec a{
+ color: #D1CAA1; 
+}
