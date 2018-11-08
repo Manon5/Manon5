@@ -173,3 +173,9 @@ a{
 .frise-chrono{
   margin:auto;
 }
+
+.bouton-nav{
+  background-color: #24633C;
+  color: #C1DAA1;
+  border-radius: 3px;
+}
