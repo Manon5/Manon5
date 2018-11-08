@@ -68,6 +68,7 @@ aside {
     font-size: 20px;
     background-color: #339650;
     border-radius: 0 10px 10px 0;
+  z-index: 1;
 }
 aside li{
 color:#D1CAA1;
