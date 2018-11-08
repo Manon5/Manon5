@@ -156,3 +156,16 @@ a{
   text-decoration: none;
 }
 
+.definition{
+  width: 100%;
+  max-height: 250px;
+  overflow-y: auto;
+  color : #D1CAA1;
+  background-color: #339650;
+  border-top: 1px solid #24633C;
+  padding: 7px;
+}
+
+.definition h1{
+  font-size: 15px;
+}
