@@ -49,27 +49,19 @@ margin: 1px;
 nav li a:hover{
   background-color: #D1CAA1;
   color: #24633C;
-padding-top: 350px;
-width: 70%;
-margin: auto;
-background-color: #D1CAA1;
-padding: 10px;  
-}
-
-article{
-  border: 1px dashed #AA9764;
-  padding: 10px;
-  margin: auto;
-  width: 90%;
-  margin-top: 15px;
-
 }
 
 
+section{
+padding: 20px;
+width: 80%;
+margin: auto; 
+background-color: #EFE4CA;
+padding-top: 150px;
+}
 aside {
      position: fixed;
-    left: -150px;
-    top: 100px;
+    left: -250px;
     transition: 0.4s;
     padding: 15px;
     width: 300px;
@@ -80,16 +72,19 @@ aside {
 aside li{
 color:#D1CAA1;
 list-style-type: none;
+
 }
 aside a{
 color:#D1CAA1;
 text-decoration: none;
-  font-weight: normal;
+}
+aside a:hover{
+color:#E8E0D0;
 }
 aside:hover {
     left:0;
 }
-h1 {
+h1 { 
 text-align: center;
 font-size: 25px;
 }
@@ -97,16 +92,14 @@ h2 {
 text-align: center;
 font-size: 18px;
 }
-
 .image-petite{
   height: 150px;
 }
 
-.im
-
-ge-moyenne{
+.image-moyenne{
   height: 300px;
 }
+
 .image-grande{
   height: 600px;
 }
@@ -119,21 +112,6 @@ figure{
   margin: auto;
   text-align: center;
 }
-
-img{
-  border: 1px solid black;
-}
-
-aside a:hover{
-color:#E8E0D0;
-}
-
-a{
- color: #339650;
-  font-weight: bold;
-  text-decoration: none;
-}
-
 footer{
   padding: 5px;
   width: 100%;
@@ -153,16 +131,4 @@ footer li{
   list-style: none;
   width: 200px;
   float: left;
-}
-
-video{
-  width: 70%;
-  margin-left: 15%;
-  margin-right: 15%;
-  margin-bottom: 15px;
-  margin-top: 15px;
-}
-
-.frise-chrono{
-  margin:auto;
 }
