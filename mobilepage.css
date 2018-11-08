@@ -12,10 +12,8 @@ text-align:justify;
 header {
 background-color:#24633C;
 color: #D1CAA1;
-position: fixed;
 top : 0;
 width: 100%;
-left: 0;
 }
 
 header h1{
@@ -28,26 +26,20 @@ margin:auto;
 
 nav li {
 list-style-type: none;
-
+text-align: center;
 }
 
 nav li a{
 color: #D1CAA1;
 text-decoration: none;
-display: inline-block;
+display: block;
 background-color: #339650;
 padding-top: 10px;
 padding-bottom: 10px;
 padding-left: 10px;
 padding-right: 10px;
-float: left;
 height: 20px;
 margin: 1px;
-}
-
-nav li a:hover{
-  background-color: #D1CAA1;
-  color: #24633C;
 }
 
 
