@@ -162,10 +162,11 @@ a{
   overflow-y: auto;
   color : #D1CAA1;
   background-color: #339650;
-  border-top: 1px solid #24633C;
+  border-top: 5px solid #24633C;
   padding: 7px;
+  font-style: italic;
 }
 
 .definition h1{
-  font-size: 15px;
+  font-size: 25px;
 }
