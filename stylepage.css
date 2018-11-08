@@ -117,6 +117,8 @@ footer{
   width: 100%;
   color: #D1CAA1;
   background-color: #183A2E;
+  position: fixed;
+  bottom: 0;
 }
 
 footer li a{
