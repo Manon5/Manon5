@@ -129,6 +129,12 @@ aside a:hover{
 color:#E8E0D0;
 }
 
+a{
+ color: #24633C;
+  font-weight: bold;
+  text-decoration: none;
+}
+
 footer{
   padding: 5px;
   width: 100%;
