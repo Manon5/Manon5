@@ -88,6 +88,7 @@ list-style-type: none;
 aside a{
 color:#D1CAA1;
 text-decoration: none;
+  font-weight: normal;
 }
 aside:hover {
     left:0;
