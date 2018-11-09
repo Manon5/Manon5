@@ -165,20 +165,22 @@ a{
 
 .image-petite{
   height: 150px;
+  max-width: 90%;
 }
 
 .image-moyenne{
   height: 300px;
+  max-width: 90%;
 }
 
 .image-grande{
   height: 600px;
-  max-width: 80%;
+  max-width: 90%;
 }
 
 .image-tres-grande{
   height: 1000px;
-  max-width: 80%;
+  max-width: 90%;
 }
 
 
