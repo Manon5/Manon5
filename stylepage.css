@@ -23,8 +23,8 @@ text-align: center;
 }
 
 nav{
-margin-left: 10%;
-margin-right: 10%;
+width: 800px;
+  background-color: #FE2EC8
 }
 
 nav li {
