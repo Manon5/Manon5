@@ -230,6 +230,15 @@ a{
   background-position: center;
 }
 
+
+.changement-climatique a{
+  color: #000000;
+}
+
+.pollution a{
+  color: #FFFFFF; 
+}
+
 .pollution{
   background-image: url("images/pollution-index.jpg");
   background-repeat: no-repeat;
