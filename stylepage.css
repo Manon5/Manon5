@@ -222,6 +222,7 @@ a{
 .img-index{
   padding: 100px;
   background-size: cover;
+  font-size: 20px;
 }
 
 .changement-climatique{
@@ -231,11 +232,11 @@ a{
 }
 
 
-.energies-renouvelables a, .dev-durable a {
+.dev-durable a {
   color: #000000;
 }
 
-.pollution a, .alim-durable a, .changement-climatique a{
+.pollution a, .alim-durable a, .changement-climatique a, .energies-renouvelables a{
   color: #FFFFFF; 
 }
 
