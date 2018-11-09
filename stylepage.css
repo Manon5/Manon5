@@ -224,24 +224,34 @@ a{
 }
 
 .changement-climatique{
-  background-image: url("images/changement-climatique-index.jpg")
+  background-image: url("images/changement-climatique-index.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 .pollution{
-  background-image: url("images/pollution-index.jpg")
+  background-image: url("images/pollution-index.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 .energies-renouvelables{
-  background-image: url("images/energies-renouvelables-index.jpg")
+  background-image: url("images/energies-renouvelables-index.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 .dev-durable{
-  background-image: url("images/dev-durable-index.jpg")
+  background-image: url("images/dev-durable-index.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 
 .alim-durable{
-  background-image: url("images/alim-durable-index.jpg")
+  background-image: url("images/alim-durable-index.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 
