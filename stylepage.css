@@ -220,8 +220,8 @@ a{
 }
 
 .img-index{
- width: 100%; 
   padding: 100px;
+  background-size: cover;
 }
 
 .changement-climatique{
