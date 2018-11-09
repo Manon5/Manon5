@@ -12,7 +12,7 @@ text-align:justify;
 header {
 background-color:#24633C;
 color: #D1CAA1;
-position: fixed;
+position: absolute;
 top : 0;
 width: 100%;
 left: 0;
@@ -264,5 +264,14 @@ a{
   background-repeat: no-repeat;
   background-position: center;
 }
-
-
+.droite {
+    left: 95%;
+        border-radius: 10px 0 0 10px;
+        width:400px;
+    }
+.droite:hover{
+    left: 80%;
+}
+.droite a{
+    display:block;
+}
