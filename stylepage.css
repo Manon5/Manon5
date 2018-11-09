@@ -218,3 +218,30 @@ a{
 .bouton-nav-suiv a, .bouton-nav-prec a{
  color: #D1CAA1; 
 }
+
+.img-index{
+ width: 100%; 
+}
+
+.changement-climatique{
+  background-image: url("changement-climatique-index")
+}
+
+.pollution{
+  background-image: url("pollution-index")
+}
+
+.energies-renouvelables{
+  background-image: url("energies-renouvelables-index")
+}
+
+.dev-durable{
+  background-image: url("dev-durable-index")
+}
+
+
+.alim-durable{
+  background-image: url("alim-durable-index")
+}
+
+
