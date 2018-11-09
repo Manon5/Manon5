@@ -224,24 +224,24 @@ a{
 }
 
 .changement-climatique{
-  background-image: url("changement-climatique-index")
+  background-image: url("images/changement-climatique-index.jpg")
 }
 
 .pollution{
-  background-image: url("pollution-index")
+  background-image: url("images/pollution-index.jpg")
 }
 
 .energies-renouvelables{
-  background-image: url("energies-renouvelables-index")
+  background-image: url("images/energies-renouvelables-index.jpg")
 }
 
 .dev-durable{
-  background-image: url("dev-durable-index")
+  background-image: url("images/dev-durable-index.jpg")
 }
 
 
 .alim-durable{
-  background-image: url("alim-durable-index")
+  background-image: url("images/alim-durable-index.jpg")
 }
 
 
