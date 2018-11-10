@@ -88,6 +88,17 @@ img {
   width: 100%;
 }
 
+.frise-chrono img{
+  width: 100px;
+}
+
+.frise-chrono{
+  overflow-y: auto;
+  max-width: 95%;
+  margin: auto;
+  text-align : center;
+}
+
 footer{
     padding:5px;
   width: 100%;
