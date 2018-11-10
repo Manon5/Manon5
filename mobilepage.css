@@ -199,18 +199,16 @@ a{
 
 
 .image-droite{
-  width: 40%;
-  float: right;
+  width: 90%;
+  text-align: center;
   margin: 3px;
 }
 
 .image-gauche{
-  width: 40%;
-  float: left;
+  width: 90%;
+  text-align: center;
   margin: 3px;
 }
 
-.para{
- clear: both;
-}
+
 
