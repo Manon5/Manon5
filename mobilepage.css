@@ -199,13 +199,13 @@ a{
 
 
 .image-droite{
-  width: 45%;
+  width: 40%;
   float: right;
   margin: 3px;
 }
 
 .image-gauche{
-  width: 45%;
+  width: 40%;
   float: left;
   margin: 3px;
 }
