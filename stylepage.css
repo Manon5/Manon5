@@ -238,11 +238,8 @@ a{
 }
 
 
-.dev-durable a {
-  color: #000000;
-}
 
-.pollution a, .alim-durable a, .changement-climatique a, .energies-renouvelables a{
+.pollution a, .alim-durable a, .changement-climatique a, .energies-renouvelables a ,.dev-durable a{
   color: #FFFFFF; 
 }
 
