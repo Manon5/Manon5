@@ -189,9 +189,13 @@ a{
 
 
 .frise-chrono{
-  margin:auto;
-  width: 1050px;
   overflow-y: auto;
+  max-width: 95%;
+  margin: auto;
+}
+
+. frise-chrono img{
+  margin:auto;
 }
 
 .bouton-nav-prec{
