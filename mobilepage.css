@@ -201,13 +201,13 @@ a{
 .image-droite{
   width: 45%;
   float: right;
-  margin: 10px;
+  margin: 3px;
 }
 
 .image-gauche{
   width: 45%;
   float: left;
-  margin: 10px;
+  margin: 3px;
 }
 
 .para{
