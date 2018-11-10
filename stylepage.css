@@ -275,3 +275,15 @@ a{
 .droite a{
     display:block;
 }
+
+.image-droite{
+  width: 50%;
+  float: right;
+}
+
+.image-gauche{
+  width: 50%;
+  float: left;
+}
+
+
