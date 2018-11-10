@@ -192,11 +192,9 @@ a{
   overflow-y: auto;
   max-width: 95%;
   margin: auto;
+  text-align : center;
 }
 
-. frise-chrono img{
-  margin:auto;
-}
 
 .bouton-nav-prec{
   background-color: #24633C;
