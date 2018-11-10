@@ -190,6 +190,8 @@ a{
 
 .frise-chrono{
   margin:auto;
+  width: 1050px;
+  overflow-y: auto;
 }
 
 .bouton-nav-prec{
@@ -292,5 +294,10 @@ a{
 
 .para{
  clear: both;
+}
+
+.image-centre{
+  width: 50%;
+  float: center;
 }
 
