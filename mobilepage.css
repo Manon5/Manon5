@@ -52,6 +52,7 @@ width: 100%;
 margin: auto;
 margin-top: 265px; 
 background-color: #EFE4CA;
+padding: 5px;
 padding-bottom: 100px;
 padding-top: 100px;
 }
@@ -63,7 +64,9 @@ article{
   background-color: #decfac;
   margin: 5px;
 }
-
+ul {
+   list-style-type: none; 
+}
 
 aside {
   display: none;
