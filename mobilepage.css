@@ -202,14 +202,16 @@ a{
   width: 70%;
   text-align: center;
   margin: auto;
-  padding: 3px;
+  margin-left: 15%;
+  margin-right: 15%;
 }
 
 .image-gauche{
   width: 70%;
   text-align: center;
   margin: auto;
-  padding: 3px;
+  margin-left: 15%;
+  margin-right: 15%;
 }
 
 
