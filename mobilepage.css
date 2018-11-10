@@ -178,3 +178,10 @@ a{
 .section-index{
   margin-top: 80px;
 }
+
+.frise-chrono{
+  overflow-y: auto;
+  max-width: 95%;
+  margin: auto;
+  text-align : center;
+}
