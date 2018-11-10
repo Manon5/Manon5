@@ -201,12 +201,14 @@ a{
 .image-droite{
   width: 70%;
   text-align: center;
+  margin: auto;
   margin: 3px;
 }
 
 .image-gauche{
   width: 70%;
   text-align: center;
+  margin: auto;
   margin: 3px;
 }
 
