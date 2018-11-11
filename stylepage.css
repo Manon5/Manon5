@@ -25,8 +25,8 @@ text-align: center;
 
 nav{
 min-width: 700px;
-  max-width: 1100px;
-  margin-auto;
+  margin-left: 12%;
+  margin-right: 15%;
   background-color: #FE2EC8;
 }
 
